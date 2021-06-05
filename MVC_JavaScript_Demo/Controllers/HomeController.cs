@@ -32,7 +32,7 @@ namespace MVC_Start.Controllers
     {
       string[] ChartLabels = new string[] { "Africa", "Asia", "Europe", "Latin America", "North America" };
       string[] ChartColors = new string[] { "#3e95cd", "#8e5ea2", "#3cba9f", "#e8c3b9", "#c45850" };
-      int[] ChartData = new int[] { 2478, 5267, 734, 784, 433 };
+      int[] ChartData = new int[] { 3000, 5000, 700, 800, 400 };
 
       ChartModel Model = new ChartModel
       {
